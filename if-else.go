@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 
-func main () {
+func ifes () {
 	age:=17
 	
 	if(age>=18){

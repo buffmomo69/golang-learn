@@ -1,15 +1,15 @@
 package main
+
 import "fmt"
 
+func fuck() {
 
-func main () {
+	var a int = 4
+	var stri string = "fuck this shit"
+	var b bool = true
 
-var a int = 4
-var stri string = "fuck this shit"
-var b bool = true
-
-fmt.Printf("%d\n",a)
-fmt.Printf("%s\n",stri)
-fmt.Printf("%s\n",b)
+	fmt.Printf("%d\n", a)
+	fmt.Printf("%s\n", stri)
+	fmt.Printf("%s\n", b)
 
 }

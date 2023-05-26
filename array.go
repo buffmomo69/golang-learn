@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main () {
+func arr () {
 
 	var firstarr [20]int
 	var secondarr [3]string
